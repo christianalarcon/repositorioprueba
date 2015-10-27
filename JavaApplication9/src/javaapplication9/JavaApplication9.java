@@ -19,6 +19,8 @@ public class JavaApplication9 {
         System.out.println("2");
         
         System.out.println("hola mundo");
+        
+        System.out.println("ecuador");
     }
     
 }
