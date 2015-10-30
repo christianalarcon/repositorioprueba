@@ -21,7 +21,8 @@ public class PotenciaDesarrollo {
         System.out.print("Potencia (n): ");
         n = num.nextInt();
         result = potencia(a, n);
-        System.out.println("El resultado de " + a + " exp " + n + " = " + result);
+        System.out.println("El resultado es " + a + " exp " + n + " = " + result);
+        System.out.print(n);
     }
     static int potencia(int a, int n){
         int result;
